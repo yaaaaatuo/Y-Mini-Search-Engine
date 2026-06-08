@@ -1,0 +1,13 @@
+Today I learned about ChatGPT and its underlying technology.
+
+The transformer architecture is the foundation of modern NLP models.
+ChatGPT demonstrates the power of large-scale language models.
+
+Key concepts:
+1. Attention mechanism
+2. Self-attention
+3. Tokenization
+4. Fine-tuning
+
+ChatGPT can generate human-like responses to various prompts.
+It is an impressive achievement in artificial intelligence.

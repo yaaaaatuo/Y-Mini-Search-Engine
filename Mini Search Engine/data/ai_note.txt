@@ -1,0 +1,13 @@
+ChatGPT is a large language model trained by OpenAI.
+
+Key features of ChatGPT:
+- Natural conversation
+- Code generation
+- Text summarization
+- Translation capabilities
+
+ChatGPT uses transformer architecture and attention mechanisms.
+The model was trained on a vast corpus of internet text.
+
+AI applications are growing rapidly in various industries.
+ChatGPT represents a significant breakthrough in AI research.
